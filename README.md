@@ -16,15 +16,6 @@ Built for hackathons to demonstrate how Generative AI can make legal documents m
 
 ---
 
-## 🛠️ Tech Stack  
-
-- **Frontend:** React, TypeScript, Vite  
-- **Styling:** Tailwind CSS, ShadCN UI  
-- **AI Integration:** (Bolt AI / Placeholder for API / Local LLM)  
-- **Other Tools:** Lucide Icons, Framer Motion  
-
----
-
 ## 🚀 Quick Start  
 
 Clone and run locally:  
